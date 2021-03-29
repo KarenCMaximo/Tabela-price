@@ -1,0 +1,4 @@
+<%@page pageEncoding="UTF-8" %>
+<a href="index.jsp">Home</a> |
+<a href="tabela-price.jsp">Tabela-price</a>
+<hr/>
